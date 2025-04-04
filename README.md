@@ -3,12 +3,9 @@
 **Project Objective:**
 A Superstore Giant wants to create a sales report to understand which products, regions, categories, and customer segments they should target or avoid.
 
-**Key Technologies:**
-1. Python Scripting
-2. Google API
-3. SQL
-4. Streamlit
-5. Data Collection
+**Dataset:**
+
+The dataset used for this project can be found at the following link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
 
 **Key Features of the Project:**
 - Sales from the current to the previous year
@@ -19,7 +16,7 @@ A Superstore Giant wants to create a sales report to understand which products, 
 - Sales by each state (Filled Map)
 - Profit from each sub-category of the products(Donut chart)
 
-**Process Workflow**
+**Process Workflow:**
 1. **Data Loading:**
    - Loaded the dataset into Power BI.
      
